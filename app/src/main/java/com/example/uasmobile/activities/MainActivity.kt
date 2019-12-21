@@ -1,7 +1,8 @@
-package com.example.uasmobile
+package com.example.uasmobile.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.uasmobile.R
 
 class MainActivity : AppCompatActivity() {
 
